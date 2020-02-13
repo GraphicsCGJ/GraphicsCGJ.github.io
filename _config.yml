@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Gyujin Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "으쌰으쌰"
   location         : "Somewhere in Korea"
   email            :
   links:
